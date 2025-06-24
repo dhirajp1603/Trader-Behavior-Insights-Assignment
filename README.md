@@ -4,11 +4,11 @@ This project explores how **trader performance metrics** (like PnL, trade size, 
 
 ---
 
-## 📁 Files in This Repository
+## 📁 Files in This Repository / Drive
 
-- `Final.ipynb` – Main Jupyter notebook containing the full analysis
-- `fear_greed_index.csv` [📈 fear_greed_index.csv]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)) – Market sentiment data (Fear & Greed Index)
-- `historical_data.csv` [📉 historical_data.csv]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)) – Historical trades with timestamps, PnL, and trade size
+- 📓 `Final.ipynb` – Main Jupyter notebook containing the full analysis  
+- 📈 [`fear_greed_index.csv`](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing) – Market sentiment data (Fear & Greed Index)  
+- 📉 [`historical_data.csv`](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing) – Historical trades with timestamps, PnL, and trade size  
 
 ---
 
